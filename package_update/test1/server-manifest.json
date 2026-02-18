@@ -1,7 +1,7 @@
 {
   "name": "1.21.1-Fabric",
   "author": "tao_test",
-  "version": "1.0",
+  "version": "1.1",
   "description": "",
   "fileApi": "https://custminecraft.github.io/package_update/test1",
   "files": [
@@ -14,12 +14,16 @@
       "hash": "7b6de813e76f7ddc8d6547c66bf2dbcbc5de5bde"
     },
     {
-      "path": "mods/CustomWindowTitle-1.21.4+v1.4.1.jar",
+      "path": "mods/CustomWindowTitle-1.21.4+v1.4.1.jar.disabled",
       "hash": "db89df2f80e8842b4ad0ed634d59f35b53f5061b"
     },
     {
-      "path": "mods/fabric-api-0.116.7+1.21.1.jar",
+      "path": "mods/fabric-api-0.116.7+1.21.1.jar.disabled",
       "hash": "79e9f3e82499fbae5bd667b96a79927ae68f90eb"
+    },
+    {
+      "path": "mods/sodium-fabric-0.6.13+mc1.21.1.jar",
+      "hash": "928a2598178c3a58b0638bab842f467d2e49251a"
     },
     {
       "path": "natives-windows-x86_64/jna14547065953557020985.dll",
